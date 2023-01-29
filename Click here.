@@ -33,4 +33,4 @@ function initMod({toggleKey:e,godInBlink:t,debugMode:n}){let o=!1,i={},l=0,d=[],
 
 // for educational purposes only :)
 
-console.log("MADE BY wisi")
+console.log("MADE BY infi, improved by wisi")
