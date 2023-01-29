@@ -4,4 +4,5 @@ Has not been banned in a few months with semi blatant cheating on pool and point
 
 Made by infi, improved by me.
 
-# CLICK VIEW RAW TO COPY / PASTE INTO TAMPERMONKEY
+# copy paste the loader into tampermonkey
+** TURN OFF THE WALK ON CEILING OPTION IT DOES NOT WORK FOR NOW**
