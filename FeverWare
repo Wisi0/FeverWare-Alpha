@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         FeverWare
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @version      1.2
+// @description  Basic hack for kirka.io built off of infi's hack.
+// @author       infi & wisi
 // @match        *https://kirka.io*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
